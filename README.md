@@ -13,7 +13,7 @@ Ce projet, réalisé dans le cadre de la SAÉ 2.02, explore la puissance des nom
 - **Environnement** : Jupyter Notebook.
 
 ##  Aperçu
-![Ma fractale Mandelbrot](mandelbrot.png)
+[![Ma fractale](mandelbrot.png)](mandelbrot.png)
 
 
 ##  Comment l'utiliser ?
